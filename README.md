@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello<br>
+# Hi there! I'm Hithaishi M.V, a passionate and persistent Information Science Engineering student at AJ Institute of Engineering and Technology, Mangaluru (2022–2026). I thrive at the intersection of AI/ML, full-stack web development, and real-world problem solving
+
 
 
 ## 🌐 Socials:
